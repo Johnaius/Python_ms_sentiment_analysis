@@ -3,6 +3,6 @@
 
 # create a .env to include:
 - PORT = "8000"
-- TEXT_ANALYTICS_API_KEY = "<your api key>"
-- MS_REGION = "<your region set in azure>"
-- ENDPOINT= "<Azure endpoint here>"
+- TEXT_ANALYTICS_API_KEY = "your api key"
+- MS_REGION = "your region set in azure"
+- ENDPOINT= "Azure endpoint here"
